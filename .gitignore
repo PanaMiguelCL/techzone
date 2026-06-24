@@ -1,6 +1,10 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
+<<<<<<< HEAD
+=======
+
+>>>>>>> 334dc88ad1b3ea9f55ff3b7dce423491000aee84
 /.pnp
 .pnp.js
 
